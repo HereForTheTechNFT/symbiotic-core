@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
+
 **[Symbiotic Protocol](https://symbiotic.fi) is an extremely flexible and permissionless shared security system.**
 
 This repository contains the core Symbiotic smart contracts responsible for managing deposits, stake allocations and slashing.
